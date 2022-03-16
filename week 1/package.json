@@ -1,0 +1,19 @@
+{
+    "name": "week-1",
+    "version": "1.0.0",
+    "description": "Server-side scripting exercises week 1",
+    "main": "script.js",
+    "scripts": {
+        "test": "nodemon script.js"
+    },
+    "keywords": [
+        "exercise",
+        "week",
+        "1"
+    ],
+    "author": "Janne Kinnunen",
+    "license": "ISC",
+    "dependencies": {
+        "lodash": "^4.17.21"
+    }
+}
